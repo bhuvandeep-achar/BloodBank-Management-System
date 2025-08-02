@@ -1,32 +1,56 @@
-Free Download Source Code "Blood Bank System"
-
-FIRST Download
-
-1.XAMPP
-
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
-
-3"Blood Bank System"
-
-4. Download the zip file/ download winrar
-
-5. Extract the file and copy "Blood Bank System" folder
-
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name bloodbank_db
-
-6. Import bloodbank_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http:/bloodbank
-**LOGIN DETAILS** 
-
-Admin
-user: admin
-pass: admin123
+Blood Bank Management System
+Introduction
+This project created a Blood Bank Management System to automate and improve the management of blood supplies, donor data, and requests. The system was developed to address the problems caused by manual methods, such as inefficiencies and delays, which can be critical during emergencies.
 
 
-****** https:1sourcecodr.blogspot.com ******
+
+Key Features
+
+Blood Inventory Management: Tracks blood units in real time, categorized by blood type.
+
+
+
+
+Donor Management: A centralized database stores donor details, including their contact information and donation history.
+
+
+
+
+Blood Request Management: Manages requests from submission to fulfillment. It allows hospital staff or administrators to approve or reject requests based on available inventory.
+
+
+
+Blood Transfer Tracking: The system monitors the delivery of blood units to patients or other facilities to ensure accountability.
+
+
+
+User Roles: The system has different user roles, such as Admin and Staff, with specific permissions for secure access.
+
+
+
+Technologies Used
+The system was built using the following technologies:
+
+
+Frontend: HTML, CSS, and JavaScript were used to create the user interface.
+
+
+
+
+
+
+Backend: PHP was used for server-side scripting and interacting with the database.
+
+
+
+
+
+Database: MySQL was used for data storage and management.
+
+
+
+Development Environment: Visual Studio Code (VS Code) was used as the IDE.
+
+Future Improvements
+Future development could include integrating SMS or email alerts to notify donors and requesters
 Subcribe my You tube Channel **** 1 Source code ****
